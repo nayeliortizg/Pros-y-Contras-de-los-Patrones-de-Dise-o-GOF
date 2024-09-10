@@ -38,6 +38,7 @@ Rodriguez Cruz Luis Fernando 21210421
 
 <p align=left>
 # Crítica de los Patrones de Diseño
+	
 A pesar de su popularidad en el mundo del desarrollo de software, los **patrones de diseño**
 no están exentos de críticas. A continuación, se presentan los argumentos más comunes en
 contra de su uso y algunos de los posibles inconvenientes que los acompañan.
@@ -101,7 +102,10 @@ evitando implementaciones rígidas que no consideren el contexto particular.
 Al final del día, los patrones son guías, no dogmas, y el verdadero arte del desarrollo de
 software reside en saber cuándo y cómo usarlos correctamente.
 
+	
+
 # ¿Por qué Debería Aprender Sobre Patrones?
+	
 Es posible que puedas trabajar durante años como programador sin conocer un solo patrón de
 diseño. De hecho, muchas personas lo hacen. Incluso en ese caso, podrías estar
 **implementando patrones sin saberlo**. Entonces, ¿por qué invertir tiempo en aprender sobre
