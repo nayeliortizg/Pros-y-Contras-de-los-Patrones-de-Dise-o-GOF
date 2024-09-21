@@ -42,7 +42,7 @@ Rodriguez Cruz Luis Fernando 21210421</b>
 			
 <pre>
 	
-<p align=left>
+<p align=justify>
 <b>Crítica de los Patrones de Diseño</b>
 	
 A pesar de su popularidad en el mundo del desarrollo de software, los **patrones de diseño**
