@@ -1,4 +1,4 @@
-![logo tec](https://github.com/user-attachments/assets/57fe986c-09e0-4f5a-bf2d-589f5f9d0d58)
+![logo tec](https://github.com/user-attachments/assets/0b5a18fc-0968-45d2-a1cd-914a75adfa59)
 
 
 <pre>
