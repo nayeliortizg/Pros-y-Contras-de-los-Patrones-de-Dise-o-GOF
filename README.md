@@ -1,4 +1,5 @@
-![post_logo_educ](https://github.com/user-attachments/assets/6a81aa52-34d2-4580-adf9-984e28bce05f)![TecNM_logo](https://github.com/user-attachments/assets/d45ccad1-5003-4246-b6b5-38a0f69970f1)
+![logo tec](https://github.com/user-attachments/assets/57fe986c-09e0-4f5a-bf2d-589f5f9d0d58)
+
 
 <pre>
 
