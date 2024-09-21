@@ -24,7 +24,7 @@ Unidad:
 1
 
 Título del trabajo:
-Pros y Contras Patrones de Diseño
+Pros y Contras de los Patrones de Diseño
 
 Estudiantes:
 Ortiz Garcia Nayeli 21210406
