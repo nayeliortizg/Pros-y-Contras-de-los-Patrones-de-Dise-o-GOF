@@ -84,7 +84,8 @@ también incrementa tu **capacidad para adaptarte a nuevos desafíos** y trabaja
 más efectiva en equipos colaborativos. Los patrones de diseño son una forma de compartir
 conocimientos y buenas prácticas en el ámbito del desarrollo de software, lo que te permite
 contribuir mejor al éxito de un proyecto.
----
+
+## Conclusión
 Como conclusión, aprender sobre patrones no solo te proporciona herramientas para resolver
 problemas comunes, sino que también te permite comunicarte de manera más eficiente con tus
 compañeros de equipo. Aunque podrías prescindir de ellos, su conocimiento es una **inversión
