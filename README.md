@@ -44,7 +44,9 @@ Rodriguez Cruz Luis Fernando 21210421</b>
 	
 <p style="text-align: =justify;">
 
-# ¿Por qué Debería Aprender Sobre Patrones?
+# Pros
+
+## ¿Por qué Debería Aprender Sobre Patrones?
 	
 Es posible que puedas trabajar durante años como programador sin conocer un solo patrón de
 diseño. De hecho, muchas personas lo hacen. Incluso en ese caso, podrías estar
@@ -87,8 +89,10 @@ Como conclusión, aprender sobre patrones no solo te proporciona herramientas pa
 problemas comunes, sino que también te permite comunicarte de manera más eficiente con tus
 compañeros de equipo. Aunque podrías prescindir de ellos, su conocimiento es una **inversión
 a largo plazo** en tus habilidades como desarrollador.
-	
-# Crítica de los Patrones de Diseño
+
+# Contras 
+
+## Crítica de los Patrones de Diseño
 	
 A pesar de su popularidad en el mundo del desarrollo de software, los **patrones de diseño**
 no están exentos de críticas. A continuación, se presentan los argumentos más comunes en
