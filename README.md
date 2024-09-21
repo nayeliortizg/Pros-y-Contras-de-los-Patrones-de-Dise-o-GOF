@@ -5,7 +5,7 @@
 
 	<p align=center>
 
-Tecnológico Nacional de México
+<b>Tecnológico Nacional de México
 Instituto Tecnológico de Tijuana
 
 Departamento de Sistemas y Computación
@@ -28,7 +28,7 @@ Pros y Contras de los Patrones de Diseño
 
 Estudiantes:
 Ortiz Garcia Nayeli 21210406
-Rodriguez Cruz Luis Fernando 21210421
+Rodriguez Cruz Luis Fernando 21210421</b>
 
 	</p>
 
