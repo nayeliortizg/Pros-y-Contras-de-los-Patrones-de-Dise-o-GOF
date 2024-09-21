@@ -153,3 +153,6 @@ Como conclusión, aprender sobre patrones no solo te proporciona herramientas pa
 problemas comunes, sino que también te permite comunicarte de manera más eficiente con tus
 compañeros de equipo. Aunque podrías prescindir de ellos, su conocimiento es una **inversión
 a largo plazo** en tus habilidades como desarrollador.
+		</p>
+
+</pre>
