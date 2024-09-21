@@ -34,15 +34,11 @@ Rodriguez Cruz Luis Fernando 21210421</b>
 
 </pre>
 
-<pre>
 
-	<p align=center>
 		
 <title>Pros y Contras de los Patrones de Diseño</title>
 	
-	</p>
-
-</pre>	
+	
 			
 <pre>
 	
