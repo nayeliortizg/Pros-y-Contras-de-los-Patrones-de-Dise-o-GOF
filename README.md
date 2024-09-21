@@ -43,6 +43,50 @@ Rodriguez Cruz Luis Fernando 21210421</b>
 <body>
 	
 <p style="text-align: =justify;">
+
+# ¿Por qué Debería Aprender Sobre Patrones?
+	
+Es posible que puedas trabajar durante años como programador sin conocer un solo patrón de
+diseño. De hecho, muchas personas lo hacen. Incluso en ese caso, podrías estar
+**implementando patrones sin saberlo**. Entonces, ¿por qué invertir tiempo en aprender sobre
+ellos?
+  
+## 1. Herramientas Probadas para Resolver Problemas Comunes
+Los **patrones de diseño** representan un conjunto de **soluciones comprobadas** para
+problemas comunes que surgen en el diseño de software. Aunque es posible que nunca te
+enfrentes a estos problemas directamente, conocer los patrones sigue siendo útil porque te
+ayuda a **resolver una amplia variedad de problemas** mediante el uso de **principios del
+diseño orientado a objetos**.
+  
+Aprender sobre patrones te permite:
+- Reconocer problemas de diseño recurrentes.
+- Aplicar soluciones probadas de manera más rápida y eficiente.
+- Mejorar tus habilidades de diseño y toma de decisiones en la arquitectura de software.
+  
+## 2. Un Lenguaje Común para el Equipo
+Otra gran ventaja de conocer los patrones de diseño es que proporcionan un **lenguaje
+común** que puedes utilizar para comunicarte de manera más eficiente con tus compañeros de
+equipo. Al mencionar un patrón por su nombre, como un **singleton** o un **factory**, todos en
+el equipo comprenderán inmediatamente la idea que estás sugiriendo sin necesidad de entrar
+en detalles o explicaciones adicionales.
+  
+### Ejemplo de Comunicación Eficiente:
+- En lugar de explicar en detalle cómo implementar una solución, podrías simplemente decir:
+> "Oh, utiliza un singleton para eso."
+Si el equipo conoce el patrón, ya sabrán qué significa y cómo aplicarlo, lo que **agiliza la
+comunicación** y mejora la colaboración.
+  
+## 3. Beneficio a Largo Plazo
+El conocimiento de los patrones de diseño no solo mejora la calidad de tu código, sino que
+también incrementa tu **capacidad para adaptarte a nuevos desafíos** y trabajar de manera
+más efectiva en equipos colaborativos. Los patrones de diseño son una forma de compartir
+conocimientos y buenas prácticas en el ámbito del desarrollo de software, lo que te permite
+contribuir mejor al éxito de un proyecto.
+---
+Como conclusión, aprender sobre patrones no solo te proporciona herramientas para resolver
+problemas comunes, sino que también te permite comunicarte de manera más eficiente con tus
+compañeros de equipo. Aunque podrías prescindir de ellos, su conocimiento es una **inversión
+a largo plazo** en tus habilidades como desarrollador.
 	
 # Crítica de los Patrones de Diseño
 	
@@ -109,51 +153,7 @@ evitando implementaciones rígidas que no consideren el contexto particular.
 Al final del día, los patrones son guías, no dogmas, y el verdadero arte del desarrollo de
 software reside en saber cuándo y cómo usarlos correctamente.
 
-	
 
-# ¿Por qué Debería Aprender Sobre Patrones?
-	
-Es posible que puedas trabajar durante años como programador sin conocer un solo patrón de
-diseño. De hecho, muchas personas lo hacen. Incluso en ese caso, podrías estar
-**implementando patrones sin saberlo**. Entonces, ¿por qué invertir tiempo en aprender sobre
-ellos?
-  
-## 1. Herramientas Probadas para Resolver Problemas Comunes
-Los **patrones de diseño** representan un conjunto de **soluciones comprobadas** para
-problemas comunes que surgen en el diseño de software. Aunque es posible que nunca te
-enfrentes a estos problemas directamente, conocer los patrones sigue siendo útil porque te
-ayuda a **resolver una amplia variedad de problemas** mediante el uso de **principios del
-diseño orientado a objetos**.
-  
-Aprender sobre patrones te permite:
-- Reconocer problemas de diseño recurrentes.
-- Aplicar soluciones probadas de manera más rápida y eficiente.
-- Mejorar tus habilidades de diseño y toma de decisiones en la arquitectura de software.
-  
-## 2. Un Lenguaje Común para el Equipo
-Otra gran ventaja de conocer los patrones de diseño es que proporcionan un **lenguaje
-común** que puedes utilizar para comunicarte de manera más eficiente con tus compañeros de
-equipo. Al mencionar un patrón por su nombre, como un **singleton** o un **factory**, todos en
-el equipo comprenderán inmediatamente la idea que estás sugiriendo sin necesidad de entrar
-en detalles o explicaciones adicionales.
-  
-### Ejemplo de Comunicación Eficiente:
-- En lugar de explicar en detalle cómo implementar una solución, podrías simplemente decir:
-> "Oh, utiliza un singleton para eso."
-Si el equipo conoce el patrón, ya sabrán qué significa y cómo aplicarlo, lo que **agiliza la
-comunicación** y mejora la colaboración.
-  
-## 3. Beneficio a Largo Plazo
-El conocimiento de los patrones de diseño no solo mejora la calidad de tu código, sino que
-también incrementa tu **capacidad para adaptarte a nuevos desafíos** y trabajar de manera
-más efectiva en equipos colaborativos. Los patrones de diseño son una forma de compartir
-conocimientos y buenas prácticas en el ámbito del desarrollo de software, lo que te permite
-contribuir mejor al éxito de un proyecto.
----
-Como conclusión, aprender sobre patrones no solo te proporciona herramientas para resolver
-problemas comunes, sino que también te permite comunicarte de manera más eficiente con tus
-compañeros de equipo. Aunque podrías prescindir de ellos, su conocimiento es una **inversión
-a largo plazo** en tus habilidades como desarrollador.
 </p>
 
 </body>
