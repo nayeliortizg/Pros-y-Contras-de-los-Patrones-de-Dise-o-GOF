@@ -40,9 +40,9 @@ Rodriguez Cruz Luis Fernando 21210421</b>
 </div>	
 	
 			
-<pre>
+<body>
 	
-<p align=justify>
+<p style="text-align: =justify;">
 <b>Crítica de los Patrones de Diseño</b>
 	
 A pesar de su popularidad en el mundo del desarrollo de software, los **patrones de diseño**
@@ -153,6 +153,6 @@ Como conclusión, aprender sobre patrones no solo te proporciona herramientas pa
 problemas comunes, sino que también te permite comunicarte de manera más eficiente con tus
 compañeros de equipo. Aunque podrías prescindir de ellos, su conocimiento es una **inversión
 a largo plazo** en tus habilidades como desarrollador.
-		</p>
+</p>
 
-</pre>
+</body>
