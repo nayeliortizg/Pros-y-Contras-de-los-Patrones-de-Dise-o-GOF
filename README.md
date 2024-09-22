@@ -38,6 +38,7 @@ Rodriguez Cruz Luis Fernando 21210421</b>
 <div align="center">		
 <h1>Pros y Contras de los Patrones de Diseño</h1>
 </div>	
+![Portada_Blog__1_](https://github.com/user-attachments/assets/67201be1-ce83-4606-b113-e3b3344990bb)	
 	
 			
 <body>
@@ -48,7 +49,6 @@ Rodriguez Cruz Luis Fernando 21210421</b>
 
 
 ## ¿Por qué Debería Aprender Sobre Patrones?
-![Portada_Blog__1_](https://github.com/user-attachments/assets/67201be1-ce83-4606-b113-e3b3344990bb)	
 Es posible que puedas trabajar durante años como programador sin conocer un solo patrón de
 diseño. De hecho, muchas personas lo hacen. Incluso en ese caso, podrías estar
 **implementando patrones sin saberlo**. Entonces, ¿por qué invertir tiempo en aprender sobre
