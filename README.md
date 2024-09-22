@@ -44,8 +44,8 @@ Rodriguez Cruz Luis Fernando 21210421</b>
 	
 <p style="text-align: =justify;">
 
-# Pros 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gluo.mx%2Fblog%2Fdesign-patterns-cuantos-son-beneficios-y-cuales-son-los-mejores&psig=AOvVaw3mBbjsqiKmppl1WIzsRAUA&ust=1727045268536000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD-k4iQ1YgDFQAAAAAdAAAAABAE
+# Pros ![Portada_Blog__1_](https://github.com/user-attachments/assets/67201be1-ce83-4606-b113-e3b3344990bb)
+
 
 ## ¿Por qué Debería Aprender Sobre Patrones?
 	
