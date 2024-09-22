@@ -38,6 +38,7 @@ Rodriguez Cruz Luis Fernando 21210421</b>
 <div align="center">		
 <h1>Pros y Contras de los Patrones de Diseño</h1>
 </div>	
+
 ![Portada_Blog__1_](https://github.com/user-attachments/assets/67201be1-ce83-4606-b113-e3b3344990bb)	
 	
 			
