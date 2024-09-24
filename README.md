@@ -24,7 +24,7 @@ Unidad:
 1
 
 Título del trabajo:
-Pros y Contras de los Patrones de Diseño
+Pros y Contras de los Patrones de Diseño GOF
 
 Estudiantes:
 Ortiz Garcia Nayeli 21210406
@@ -36,7 +36,7 @@ Rodriguez Cruz Luis Fernando 21210421</b>
 
 
 <div align="center">		
-<h1>Pros y Contras de los Patrones de Diseño</h1>
+<h1>Pros y Contras de los Patrones de Diseño GOF</h1>
 </div>	
 
 ![Portada_Blog__1_](https://github.com/user-attachments/assets/67201be1-ce83-4606-b113-e3b3344990bb)	
@@ -46,21 +46,19 @@ Rodriguez Cruz Luis Fernando 21210421</b>
 	
 <p style="text-align: =justify;">
 
-# Pros 
+# Introducción
+Los "Patrones de Diseño GOF" (Gang of Four) fueron popularizados en el libro "Design Patterns: Elements of Reusable Object-Oriented Software" publicado en 1994 por cuatro autores: Erich Gamma, Richard Helm, Ralph Johnson y John Vlissides. Estos patrones ayudan a escribir código más estructurado, mantenible y reutilizable. Sin embargo, como cualquier herramienta, tienen ventajas y desventajas que es importante considerar.
 
 
-## ¿Por qué Debería Aprender Sobre Patrones?
-Es posible que puedas trabajar durante años como programador sin conocer un solo patrón de
-diseño. De hecho, muchas personas lo hacen. Incluso en ese caso, podrías estar
-**implementando patrones sin saberlo**. Entonces, ¿por qué invertir tiempo en aprender sobre
-ellos?
+## Pros 
+
+## 1. Reutilización de Código:
+- Los patrones de diseño permiten reutilizar soluciones ya probadas, evitando reinventar la rueda.
+- Ayudan a reducir el tiempo de desarrollo, ya que se basan en estructuras previamente documentadas.
   
-## 1. Herramientas Probadas para Resolver Problemas Comunes
-Los **patrones de diseño** representan un conjunto de **soluciones comprobadas** para
-problemas comunes que surgen en el diseño de software. Aunque es posible que nunca te
-enfrentes a estos problemas directamente, conocer los patrones sigue siendo útil porque te
-ayuda a **resolver una amplia variedad de problemas** mediante el uso de **principios del
-diseño orientado a objetos**.
+## 2. Estandarización:
+- Utilizar patrones de diseño permite que el código siga estructuras conocidas, facilitando su comprensión por parte de otros programadores.
+- Mejora la comunicación entre desarrolladores, ya que los nombres de los patrones (como Singleton, Factory, Observer, etc.) son fácilmente reconocidos.
   
 Aprender sobre patrones te permite:
 - Reconocer problemas de diseño recurrentes.
